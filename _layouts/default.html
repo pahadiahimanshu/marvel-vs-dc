@@ -3,17 +3,18 @@
 <head>
 	<meta charset="utf-8">
 	<title>Marvel vs DC</title>
+	<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 </head>
 <body>
 	<header>
 		<h1>Marvel vs DC</h1>
-		{% include nav.html %}
+		{% include nav.html navclass='nav-top' %}
 	</header>
 	{{content}}
 
 	<footer>
-	
-		{% include nav.html %}
+
+		{% include nav.html navclass='nav-bottom' %}
 		<p>Works!</p>
 	</footer>
 </body>
