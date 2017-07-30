@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Guardians of the galaxy 2
-source: 2
+meta: In 2014, Peter Quill, Gamora, Drax, Rocket, and Baby Groot are renowned as the Guardians of the Galaxy.
 category: marvel
 ---
 

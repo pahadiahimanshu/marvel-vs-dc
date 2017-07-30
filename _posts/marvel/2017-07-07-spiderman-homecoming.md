@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Spider-man Homecoming
-source: s
+meta: Following the Battle of New York,[N 1] Adrian Toomes and his salvage company are contracted to clean up the city..
 category: marvel
 ---
 
