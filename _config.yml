@@ -1,3 +1,4 @@
 baseurl: /marvel-vs-dc
 exclude: ['README.md']
 _markdown: kramdown
+theme: jekyll-theme-minimal
